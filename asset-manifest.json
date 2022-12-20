@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/creative-digital-agency/static/css/main.cdd22c09.css",
+    "main.js": "/creative-digital-agency/static/js/main.21e3f5ce.js",
+    "static/media/hero-image.png": "/creative-digital-agency/static/media/hero-image.22455aa44ad4c6f07749.png",
+    "static/media/contact-image.png": "/creative-digital-agency/static/media/contact-image.cf7f0a78297fc0f74dd0.png",
+    "static/media/blog02.png": "/creative-digital-agency/static/media/blog02.7a93d1b99075c6f0ba1f.png",
+    "static/media/portfolio06.png": "/creative-digital-agency/static/media/portfolio06.d0062c2f01b1220871ab.png",
+    "static/media/portfolio02.png": "/creative-digital-agency/static/media/portfolio02.e561f386657fdeb54607.png",
+    "static/media/blog01.png": "/creative-digital-agency/static/media/blog01.8ae286e251847e6bcc6c.png",
+    "static/media/blog03.png": "/creative-digital-agency/static/media/blog03.25b322dec29e33eeac4a.png",
+    "static/media/blog04.png": "/creative-digital-agency/static/media/blog04.25b322dec29e33eeac4a.png",
+    "static/media/blog05.png": "/creative-digital-agency/static/media/blog05.25b322dec29e33eeac4a.png",
+    "static/media/blog06.png": "/creative-digital-agency/static/media/blog06.25b322dec29e33eeac4a.png",
+    "static/media/portfolio04.png": "/creative-digital-agency/static/media/portfolio04.0efe4b33611b16949c6b.png",
+    "static/media/person01.png": "/creative-digital-agency/static/media/person01.47754599fcb7819a7a39.png",
+    "static/media/portfolio05.png": "/creative-digital-agency/static/media/portfolio05.a93a1fd47574c74be267.png",
+    "static/media/portfolio01.png": "/creative-digital-agency/static/media/portfolio01.a9c7a2f2d85a27e1004d.png",
+    "static/media/partner03.svg": "/creative-digital-agency/static/media/partner03.f1d2b4017d266e5a1913268f066d2e7a.svg",
+    "static/media/portfolio03.png": "/creative-digital-agency/static/media/portfolio03.ec56323f4abf1550e855.png",
+    "static/media/partner01.svg": "/creative-digital-agency/static/media/partner01.7d2b415e88fe2765dcb99d4f656240ce.svg",
+    "static/media/person02.png": "/creative-digital-agency/static/media/person02.132f81b8cd2e8c7a2228.png",
+    "static/media/partner02.svg": "/creative-digital-agency/static/media/partner02.21d3407fce43a9e299e2ba3fe91b780a.svg",
+    "static/media/partner06.svg": "/creative-digital-agency/static/media/partner06.b5ae417845fc46b86182a51ccf79f724.svg",
+    "static/media/partner05.svg": "/creative-digital-agency/static/media/partner05.942eb9b20e1aab29c5806f3f466aa383.svg",
+    "static/media/partner04.svg": "/creative-digital-agency/static/media/partner04.ae8b092969fcca1507a248459c9eb18e.svg",
+    "static/media/contact-info03.svg": "/creative-digital-agency/static/media/contact-info03.6dba31f5a3b867dbcd52f93160f849c7.svg",
+    "static/media/contact-info02.svg": "/creative-digital-agency/static/media/contact-info02.26922bd698f54fac1f930e81d0060555.svg",
+    "static/media/contact-info01.svg": "/creative-digital-agency/static/media/contact-info01.5054d10e73b7e4ad4b76aaf1019b12ef.svg",
+    "static/media/logo.svg": "/creative-digital-agency/static/media/logo.c73645d6f944bcb3399c07d6ae68d551.svg",
+    "static/media/logo-yellow.svg": "/creative-digital-agency/static/media/logo-yellow.249beb6b6112fc8238bc43392779d91a.svg",
+    "index.html": "/creative-digital-agency/index.html",
+    "static/media/mobile-close.svg": "/creative-digital-agency/static/media/mobile-close.1ad1aa67d790c39210faead5a7d6d1e6.svg",
+    "static/media/mobile-menu.svg": "/creative-digital-agency/static/media/mobile-menu.61f797891e164066eb7adef49d728757.svg",
+    "static/media/arrow.svg": "/creative-digital-agency/static/media/arrow.381aec5b5f16a84e1a30cca424068de2.svg",
+    "main.cdd22c09.css.map": "/creative-digital-agency/static/css/main.cdd22c09.css.map",
+    "main.21e3f5ce.js.map": "/creative-digital-agency/static/js/main.21e3f5ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd22c09.css",
+    "static/js/main.21e3f5ce.js"
+  ]
+}

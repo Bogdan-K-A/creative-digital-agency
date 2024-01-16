@@ -8,7 +8,12 @@ import { Container } from '../Container/Container';
 import { Flex } from '../ui-component/Flex';
 import { Text } from '../ui-component/Text';
 import { Section } from '../ui-component/Section';
-import { FooterText, FooterWrapper, LogoWrapper } from './Footer.styled';
+import {
+  FooterSection,
+  FooterText,
+  FooterWrapper,
+  LogoWrapper,
+} from './Footer.styled';
 
 //IMAGES
 import Arrow from '../../assets/footer/arrow.svg';
@@ -16,7 +21,7 @@ import Logo from '../../assets/footer/logo.svg';
 
 export const Footer = () => {
   return (
-    <Section background={p => p.theme.colors.text} padding="55px 0">
+    <FooterSection background={p => p.theme.colors.text} padding="55px 0">
       <Container>
         <FooterWrapper>
           <LogoWrapper>
@@ -31,6 +36,6 @@ export const Footer = () => {
           </Link>
         </FooterWrapper>
       </Container>
-    </Section>
+    </FooterSection>
   );
 };
